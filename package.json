@@ -1,0 +1,15 @@
+{
+  "name": "gpt-documentator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Tolga Erdonmez <tolgaerdonmez@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node main.js generate"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "yargs": "^17.3.1"
+  }
+}
