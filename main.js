@@ -46,6 +46,7 @@ async function generateDocumentation(filePath) {
   } catch (error) {
     console.error(error);
   }
+  return "";
 }
 
 async function generateAllDocumentation(directory, targetPath, override = false) {

@@ -1,5 +1,5 @@
 {
-  "name": "gpt-documentator",
+  "name": "docs-gpt",
   "version": "1.0.0",
   "main": "main.js",
   "author": "Tolga Erdonmez <tolgaerdonmez@gmail.com>",
